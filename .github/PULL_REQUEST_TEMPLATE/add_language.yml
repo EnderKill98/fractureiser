@@ -1,0 +1,12 @@
+name: "New translations"
+description: "Translate files into a new language"
+title: "NEWLANG: <title>"
+labels:
+  - new_language
+body:
+  -type: markdown
+  attributes:
+    value: |
+      # Test
+
+      Test
